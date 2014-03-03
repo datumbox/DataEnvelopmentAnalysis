@@ -47,7 +47,7 @@ public class DataEnvelopmentAnalysisExample {
     }
     
     /**
-     * Page Social MEdiaPopularity example. Estimates the popularity of a page by using data
+     * Page Social MediaPopularity example. Estimates the popularity of a page by using data
      * from Social Media such as Facebook Likes, Google +1s and Tweets. The training
      * data are provided by WebSEOAnalytics.com.
      * 

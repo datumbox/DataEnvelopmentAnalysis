@@ -5,7 +5,8 @@ JAVA implementation of Data Envelopment Analysis algorithm with an example of ho
 
 For more information concerning the technique check out:
 
-http://blog.datumbox.com/
+http://blog.datumbox.com/measuring-the-social-media-popularity-of-pages-with-dea-in-java/
+http://blog.datumbox.com/data-envelopment-analysis-tutorial/
 
 Useful Links
 ============
